@@ -24,3 +24,7 @@ healthdata.gov: https://dkan.readthedocs.io/en/latest/apis/datastore-api.html
         # filters (mixed) – array or string of matching conditions to select
         # q (string) – fulltext search
         # limit (int) – maximum number of rows to return
+
+
+https://statisticalatlas.com/state/Texas/Race-and-Ethnicity 
+race: https://censusreporter.org/data/table/?table=B03002&geo_ids=04000US48,01000US&primary_geo_id=04000US48#
