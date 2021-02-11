@@ -8,7 +8,7 @@ healthdata.gov API = 'https://www.healthdata.gov/data.json?'
     deaths by county and race: https://healthdata.gov/dataset/provisional-covid-19-death-counts-county-and-race 
         json: https://healthdata.gov/dataset/provisional-covid-19-death-counts-county-and-race/resource/ba7a1f61-8ba9-40e7-9293 
 excess deaths (by sex/age/race): https://healthdata.gov/dataset/ah-excess-deaths-sex-age-and-race 
-
+texas_age_demographics = 'https://censusreporter.org/data/table/?table=B01001&geo_ids=04000US48,01000US,050|04000US48&primary_geo_id=04000US48#valueType|percentage'
 # Documentation
 census: https://www.census.gov/data/developers/guidance/api-user-guide.html 
 arcgis: https://developers.arcgis.com/rest/services-reference/query-feature-service-layer-.htm 
