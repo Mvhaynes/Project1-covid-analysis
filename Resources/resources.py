@@ -28,3 +28,5 @@ healthdata.gov: https://dkan.readthedocs.io/en/latest/apis/datastore-api.html
 
 https://statisticalatlas.com/state/Texas/Race-and-Ethnicity 
 race: https://censusreporter.org/data/table/?table=B03002&geo_ids=04000US48,01000US&primary_geo_id=04000US48#
+https://covid19.census.gov/datasets/average-household-size-and-population-density-county/data?orderBy=B01001_calc_PopDensity&where=State%20%3D%20%27Texas%27 
+    avg household size and popn density csv 
