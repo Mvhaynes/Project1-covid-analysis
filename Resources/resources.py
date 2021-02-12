@@ -9,6 +9,7 @@ healthdata.gov API = 'https://www.healthdata.gov/data.json?'
         json: https://healthdata.gov/dataset/provisional-covid-19-death-counts-county-and-race/resource/ba7a1f61-8ba9-40e7-9293 
 excess deaths (by sex/age/race): https://healthdata.gov/dataset/ah-excess-deaths-sex-age-and-race 
 texas_age_demographics = 'https://censusreporter.org/data/table/?table=B01001&geo_ids=04000US48,01000US,050|04000US48&primary_geo_id=04000US48#valueType|percentage'
+hospital_cap_url = 'https://opendata.arcgis.com/datasets/1044bb19da8d4dbfb6a96eb1b4ebf629_0.geojson'
 # Documentation
 census: https://www.census.gov/data/developers/guidance/api-user-guide.html 
 arcgis: https://developers.arcgis.com/rest/services-reference/query-feature-service-layer-.htm 
@@ -30,3 +31,6 @@ https://statisticalatlas.com/state/Texas/Race-and-Ethnicity
 race: https://censusreporter.org/data/table/?table=B03002&geo_ids=04000US48,01000US&primary_geo_id=04000US48#
 https://covid19.census.gov/datasets/average-household-size-and-population-density-county/data?orderBy=B01001_calc_PopDensity&where=State%20%3D%20%27Texas%27 
     avg household size and popn density csv 
+
+https://covid19.census.gov/datasets/health-insurance-coverage-counties/data?orderBy=GEO_PARENT_NAME&where=GEO_PARENT_NAME%20%3D%20%27Texas%27
+    health insurance by county 
