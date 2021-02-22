@@ -31,3 +31,14 @@ This scatterplot compares the population density of each county to the number of
 # Health Insurance Coverage
 
 The final barchart compares the proportion of uninsured individuals and the percentage of COVID-19 fatalities. The chart shows no relationship between communities with higher uninsurance rates and COVID-19 fatalities. 
+
+# Resources 
+
+[Running total of Confirmed COVID-19 Cases by Texas County](Resources/tx_confirmed.xlsx)
+[Total COVID-19 fatalities by Texas County](Resources/tx_fatalities.xlsx)
+[Age distribution by Texas County](Resources/tx_age_demographic.xlsx)
+[Total county population](Resources/Population Estimates by County.csv)
+[Texas distribution of Races/Ethnicities](Resources/tx_census.xlsx)
+[Texas county population densities](Resources/avg_household_size_popn_density.csv)
+[Texas number of uninsured individuals](Resources/Health_Insurance_Coverage_-_Counties.csv)
+
