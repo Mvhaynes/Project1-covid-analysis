@@ -8,7 +8,7 @@ To factor out the wide distribution of county populations, most calculations wer
 
 # County Fatality Rate Compared to Proportion of Older (65+) Population
 
-! [chart 1](./output_data/fatalities_by_age.png)
+! [chart1] (/output_data/fatalities_by_age.png)
 
 The proportion of 65+ population was obtained by calculating the total number of individuals aged 65+ and dividing by the county's total population. The proportion of 65+ was plotted compared to the county's fatality rate, defined by the number of COVID-19 infected individuals who died due to the disease. 
 
