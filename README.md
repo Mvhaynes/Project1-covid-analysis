@@ -1,4 +1,4 @@
-# Project1-covid-analysis
+# Texas COVID-19: At-Risk Communities
 
 # Summary
 
