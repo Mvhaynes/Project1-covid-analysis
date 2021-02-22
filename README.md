@@ -16,7 +16,7 @@ The scatterplot shows a moderately positive correlation coefficient of 0.44, ind
 
 # Fatality Broken Down by Race
 
-[./output_data/covid_deaths_by_race.png]
+![chart2](./output_data/covid_deaths_by_race.png)
 
 This barchart compares the percentage of total COVID-19 deaths broken down by race/ethnicity. Note there was incomplete data for some races/ethnicities which were not included. The yellow bars represent the expected population distribution of races/ethnicites used to run a chi-squared test. 
 
@@ -24,7 +24,7 @@ The chi-squared value for 4 degrees of freedom when the probability value is set
 
 # Infections and Population Density
 
-[./output_data/infections_by_density.png]
+![chart3](./output_data/infections_by_density.png)
 
 This scatterplot compares the population density of each county to the number of COVID-19 infections. With a strong correlation coefficient of 0.96, we can conclude that there is a positive relationship between population density and the total number of infected individuals. 
 
