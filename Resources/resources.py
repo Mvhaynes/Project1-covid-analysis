@@ -1,6 +1,4 @@
 # Data  
-hospital_bed = 'https://coronavirus-resources.esri.com/datasets/1044bb19da8d4dbfb6a96eb1b4ebf629_0?geometry=110.390%2C-16.820%2C-135.352%2C72.123'
-hospital_capacity = 'https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state'
 uninsured_popn = 'https://data.census.gov/cedsci/table?t=Health%20Insurance&tid=ACSST1Y2019.S2702&hidePreview=false'
 texas_demographics = 'https://data.census.gov/cedsci/profile?g=0400000US48'
 nursing_homes = 'https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg'

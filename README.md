@@ -34,11 +34,17 @@ The final barchart compares the proportion of uninsured individuals and the perc
 
 # Resources 
 
-[Running total of Confirmed COVID-19 Cases by Texas County](Resources/tx_confirmed.xlsx)
-[Total COVID-19 fatalities by Texas County](Resources/tx_fatalities.xlsx)
-[Age distribution by Texas County](Resources/tx_age_demographic.xlsx) 
-[Total county population](Resources/'Population Estimates by County.csv')
-[Texas distribution of Races/Ethnicities](Resources/tx_census.xlsx)
-[Texas county population densities](Resources/avg_household_size_popn_density.csv)
-[Texas number of uninsured individuals](Resources/Health_Insurance_Coverage_-_Counties.csv)
+[Running total of Confirmed COVID-19 Cases by Texas County](Resources/tx_confirmed.xlsx) obtained from the [Texas DSHS](https://dshs.texas.gov/coronavirus/AdditionalData.aspx)
+
+[Total COVID-19 fatalities by Texas County](Resources/tx_fatalities.xlsx) obtained from the [Texas DSHS](https://dshs.texas.gov/coronavirus/AdditionalData.aspx)
+
+API for the number of 65+ individuals in Texas obtained from the [Texas Open Data Portal](https://data.texas.gov/resource/qjby-4sji.json?)
+
+[Texas distribution of Races/Ethnicities](Resources/tx_census.xlsx) obtained from the [Texas Census]('https://data.census.gov/cedsci/profile?g=0400000US48')
+
+[Texas county population densities](Resources/avg_household_size_popn_density.csv) obtained from the [US Census COVID-19 website](https://covid19.census.gov/datasets/average-household-size-and-population-density-county/data?orderBy=B01001_calc_PopDensity&where=State%20%3D%20%27Texas%27)
+
+[Texas number of uninsured individuals](Resources/Health_Insurance_Coverage_-_Counties.csv) obtained from [US Census COVID-19 website](https://covid19.census.gov/datasets/health-insurance-coverage-counties/data?orderBy=GEO_PARENT_NAME&where=GEO_PARENT_NAME%20%3D%20%27Texas%27)
+
+
 
