@@ -34,11 +34,11 @@ The final barchart compares the proportion of uninsured individuals and the perc
 
 # Resources 
 
-[Running total of Confirmed COVID-19 Cases by Texas County](Resources/tx_confirmed.xlsx)
-[Total COVID-19 fatalities by Texas County](Resources/tx_fatalities.xlsx)
-[Age distribution by Texas County](Resources/tx_age_demographic.xlsx)
-[Total county population](Resources/Population Estimates by County.csv)
-[Texas distribution of Races/Ethnicities](Resources/tx_census.xlsx)
-[Texas county population densities](Resources/avg_household_size_popn_density.csv)
+[Running total of Confirmed COVID-19 Cases by Texas County](Resources/tx_confirmed.xlsx) \n
+[Total COVID-19 fatalities by Texas County](Resources/tx_fatalities.xlsx) \n
+[Age distribution by Texas County](Resources/tx_age_demographic.xlsx) \n
+[Total county population](Resources/Population_Estimates_by_County.csv) \n
+[Texas distribution of Races/Ethnicities](Resources/tx_census.xlsx) \n
+[Texas county population densities](Resources/avg_household_size_popn_density.csv) \n
 [Texas number of uninsured individuals](Resources/Health_Insurance_Coverage_-_Counties.csv)
 
