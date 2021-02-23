@@ -30,7 +30,7 @@ This scatterplot compares the population density of each county to the number of
 
 # Health Insurance Coverage
 
-The final barchart compares the proportion of uninsured individuals and the percentage of COVID-19 fatalities. The chart shows no relationship between communities with higher uninsurance rates and COVID-19 fatalities. 
+The final scatterplot compares the proportion of uninsured individuals and the percentage of COVID-19 fatalities. The chart shows no relationship between communities with higher uninsurance rates and COVID-19 fatalities. 
 
 # Resources 
 
